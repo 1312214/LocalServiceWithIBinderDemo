@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceIBinderDemo</string>
+    <string name="service_demo_tag">ServiceDemo</string>
+</resources>
